@@ -1,6 +1,6 @@
 # Star Cluster Analysis Notebooks
 
-A collection of Jupyter notebooks for star cluster photometry, galaxy simulations, and related analysis, developed by Jacob Wisienski in collaboration with [Amy Miller](https://github.com/amymiller) and the star cluster research group in the Department of Astronomy at the University of Florida.
+A collection of Jupyter notebooks for star cluster photometry, galaxy simulations, and related analysis, developed by Jacob Wisienski in collaboration with [Amy Miller](https://github.com/amymiller).
 
 ## Notebooks
 
