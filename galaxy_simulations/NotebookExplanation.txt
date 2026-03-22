@@ -1,0 +1,10 @@
+Descriptions of the uploaded notebooks are given here:
+
+Galaxy Injection.ipynb -- Primitive first insertion of an artificial source into a background image. Likely was from me starting to learn how
+to begin injecting galaxy sources.
+
+GalaxySimStuffP1_FirstSources.ipynb -- First creations of images using multiple sources at the same time. Looked into elliptical galaxy profiles from
+the textbook Dr. Slepian gave, and 2D Moffat profiles.
+
+GalaxySimStuffP2_MoffatExploreAndMisc.ipynb -- Extended the P1 notebook to investigate convolutions of the injected source profiles with Moffat 2D and
+Gaussian kernels.
